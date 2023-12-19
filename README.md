@@ -5,6 +5,8 @@ find as many words as you can on a 4x4 letter grid within a time limit.
 The game features a graphical user interface (GUI) built using the Tkinter
 library in Python.
 
+![boggleExample](https://github.com/OriDriham/Boggle/assets/145263130/b698d434-c314-4ea1-8406-d8477d008b8e)
+
 
 # File Descriptions
 
