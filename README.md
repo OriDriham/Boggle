@@ -38,19 +38,19 @@ The game window will appear, allowing you to start playing.
 
 # How to Play
 
-Click the "Start" button to begin a new round of the game.\
+Click the "Start" button to begin a new round of the game.
 
 The Boggle board will be filled with random letters, and the timer will start
-counting down from 3 minutes.\
+counting down from 3 minutes.
 
 Click on adjacent letters to form words. Words must be at least three letters
 long and can be formed by selecting horizontally, vertically, or diagonally
-adjacent letters.\
+adjacent letters.
 
 Click the "Add Word" button to submit a word. If the word is valid (found in
-the dictionary), your score will increase.\
+the dictionary), your score will increase.
 
-Keep finding words until the timer reaches 0.\
+Keep finding words until the timer reaches 0.
 
 Click the "Start" button to play another round.
 
@@ -62,5 +62,5 @@ Click the "Start" button to play another round.
 - Randomized Boggle board for each round.
 - Dictionary validation for submitted words.
 
-\
+
 Enjoy the Boggle game and have fun finding words!
